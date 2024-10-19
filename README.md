@@ -1,4 +1,4 @@
-# IT412-Salt and Pepper with Hashing
+# IT412-Login/SignUp with Password Hash, Salt and Pepper
 ## Using Flutter mobile and REST API PHP and MySQL
 
 ![Screenshot (15)](https://github.com/user-attachments/assets/ba8a0700-25e1-4536-9930-f50b0934d767)
